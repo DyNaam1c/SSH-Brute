@@ -13,7 +13,7 @@ A simple SSH mass brute force script written in Python 3.8, which writes the res
 . Select timeout & threads.
 
 # ❌Legal disclaimer
-I the creator assumes no responsibility for any actions taken as a result of this code.
+I the creator assumes no responsibility for anyones actions taken as a result of this code.
 
 # ☕️Buy me a coffee
 BTC: bc1q80jm6sqtaj9y7kcgtztydgq5z9pluzctxq92je
