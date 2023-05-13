@@ -12,4 +12,6 @@ The paramiko lib throws alot of errors so i set logging to critical a login atte
 
 . Select timeout & threads.
 
+# ❌Legal disclaimer
+I the creator assumes no responsibility for any actions taken as a result of this code.
 
