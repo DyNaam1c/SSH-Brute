@@ -15,3 +15,9 @@ A simple SSH mass brute force script written in Python 3.8, which writes the res
 # ❌Legal disclaimer
 I the creator assumes no responsibility for any actions taken as a result of this code.
 
+# ☕️Buy me a coffee
+BTC: bc1q80jm6sqtaj9y7kcgtztydgq5z9pluzctxq92je
+
+ETH: 0x55E6C33173E4b39495670A581CBA59CeC8020599
+
+
